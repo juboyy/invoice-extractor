@@ -1,0 +1,9 @@
+Flask
+PyTesseract
+PyPDFium2
+PyJWT
+jiwer
+anthropic
+Pillow
+Werkzeug
+python-dotenv
